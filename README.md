@@ -29,5 +29,3 @@ This collaborative text editor is designed to enable real-time collaborative edi
 
 
 ```
-
-Feel free to copy and paste this Markdown code into your project's README.md file!
