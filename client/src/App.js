@@ -5,6 +5,8 @@ import {
   Route,
   Redirect,
 } from "react-router-dom"
+
+// Generates Random id to create Random new Document each time
 import { v4 as uuidV4 } from "uuid"
 
 function App() {
