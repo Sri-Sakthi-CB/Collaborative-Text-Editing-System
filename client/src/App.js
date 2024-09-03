@@ -12,6 +12,7 @@ function App() {
     <Router>
       <Switch>
         <Route path="/" exact>
+          // Redirecting to the entirely new Text Document
           <Redirect to={`/documents/${uuidV4()}`} />
         </Route>
         <Route path="/documents/:id">
